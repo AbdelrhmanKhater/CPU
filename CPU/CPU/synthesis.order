@@ -1,0 +1,12 @@
+i<>.\src\ALU.vhd
+i<>.\src\comp.vhd
+i<>.\src\control.vhd
+i<>.\src\cpu.vhd
+i<>.\src\cpu_lib.vhd
+i<>.\src\mem.vhd
+i<>.\src\reg.vhd
+i<>.\src\regarray.vhd
+i<>.\src\shift.vhd
+i<>.\src\top.vhd
+i<>.\src\trireg.vhd
+i<>.\src\TestBench\cpu_TB.vhd

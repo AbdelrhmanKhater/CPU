@@ -1,0 +1,19 @@
+[Files List]
+f:\sys\Vlib\Std/src/standard.vhd=S
+f:\sys\Vlib\Std/src/textio.vhd=S
+f:\sys\Vlib\IEEE/src/std_logic_1164.vhdl=S
+f:\sys\Vlib\IEEE/src/std_logic_1164-body.vhdl=S
+f:\sys\Vlib\IEEE/src/arith_p.vhd=S
+f:\sys\Vlib\IEEE/src/arith_b.vhd=S
+f:\VHDL\CPU\CPU/src/cpu_lib.vhd=S
+f:\sys\Vlib\IEEE/src/unsigned_p.vhd=S
+f:\sys\Vlib\IEEE/src/unsigned_b.vhd=S
+f:\VHDL\CPU\CPU/src/control.vhd=S
+f:\VHDL\CPU\CPU/src/reg.vhd=S
+f:\VHDL\CPU\CPU/src/comp.vhd=S
+f:\VHDL\CPU\CPU/src/trireg.vhd=S
+f:\VHDL\CPU\CPU/src/shift.vhd=S
+f:\VHDL\CPU\CPU/src/ALU.vhd=S
+f:\VHDL\CPU\CPU/src/regarray.vhd=S
+f:\VHDL\CPU\CPU/src/cpu.vhd=S
+f:\VHDL\CPU\CPU/src/TestBench/cpu_TB.vhd=S

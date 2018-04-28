@@ -1,0 +1,66 @@
+[Project]
+Current Flow=Generic
+VCS=0
+version=1
+Current Config=compile
+
+[Configurations]
+compile=CPU
+
+[Library]
+CPU=.\CPU.LIB
+
+[$LibMap$]
+CPU=.
+Active_lib=
+
+[Settings]
+FLOW_TYPE=HDL
+LANGUAGE=VHDL
+REFRESH_FLOW=1
+FLOWTOOLS=NONE
+FAMILY=
+
+[Groups]
+TestBench=1
+
+[HierarchyViewer]
+SortInfo=u
+HierarchyInformation=cpu_tb|tb_architecture|0 
+ShowHide=ShowTopLevel
+Selected=
+
+[Files]
+/ALU.vhd=-1
+/comp.vhd=-1
+/control.vhd=-1
+/cpu.vhd=-1
+/cpu_lib.vhd=-1
+/mem.vhd=-1
+/reg.vhd=-1
+/regarray.vhd=-1
+/shift.vhd=-1
+/top.vhd=-1
+/trireg.vhd=-1
+TestBench/cpu_TB.vhd=-1
+TestBench/cpu_TB_runtest.do=-1
+/untitled.asdb=-1
+/untitled.awc=-1
+
+[Files.Data]
+.\src\ALU.vhd=VHDL Source Code
+.\src\comp.vhd=VHDL Source Code
+.\src\control.vhd=VHDL Source Code
+.\src\cpu.vhd=VHDL Source Code
+.\src\cpu_lib.vhd=VHDL Source Code
+.\src\mem.vhd=VHDL Source Code
+.\src\reg.vhd=VHDL Source Code
+.\src\regarray.vhd=VHDL Source Code
+.\src\shift.vhd=VHDL Source Code
+.\src\top.vhd=VHDL Source Code
+.\src\trireg.vhd=VHDL Source Code
+.\src\TestBench\cpu_TB.vhd=VHDL Test Bench
+.\src\TestBench\cpu_TB_runtest.do=Macro
+
+.\src\untitled.asdb=Accelerated Waveform File
+.\src\untitled.awc=Accelerated Waveform Configuration
