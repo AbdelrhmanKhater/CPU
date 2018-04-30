@@ -1,1 +1,1 @@
--w -s "f:\VHDL\CPU\library.cfg"  -j "f:\VHDL\CPU\CPU\projlib.cfg"  -d "f:\VHDL\CPU\CPU\compile"   -work CPU  -dbg -e 100 -2002 "f:\\VHDL\\CPU\\CPU\\src\\control.vhd" 
+-w -s "F:\VHDL\CPU\library.cfg"  -j "F:\VHDL\CPU\CPU\projlib.cfg"  -d "F:\VHDL\CPU\CPU\compile"   -work CPU  -dbg -e 100 -2002 "F:\\VHDL\\CPU\\CPU\\src\\control.vhd" 

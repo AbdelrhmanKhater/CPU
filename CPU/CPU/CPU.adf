@@ -26,7 +26,7 @@ TestBench=1
 
 [HierarchyViewer]
 SortInfo=u
-HierarchyInformation=cpu_tb|tb_architecture|0
+HierarchyInformation=
 ShowHide=ShowTopLevel
 Selected=
 

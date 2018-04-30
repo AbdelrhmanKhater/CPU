@@ -1,4 +1,4 @@
-143
+181
 ~E 1 "./src/reg.vhd" 5 reg
 ~A 1 "./src/reg.vhd" 11 rtl
 ~E 1 "./src/cpu.vhd" 5 cpu

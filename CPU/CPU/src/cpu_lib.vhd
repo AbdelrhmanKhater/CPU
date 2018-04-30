@@ -40,8 +40,11 @@ package cpu_lib is
 						bgtI10, braI2, braI3, braI4, braI5, braI6,
 						loadI2,loadI3, loadI4, loadI5, loadI6, 
 						blt2, blt3, blt4, blt5, blt6, blt7, blt8, blt9,	 
-						add2, add3, add4, add5, add6, add7, add8, 
+						add2, add3, add4, 
 						ror2, ror3, ror4, ror5, ror6,
+						beq2, beq3, beq4, beq5, beq6, beq7, beq8, beq9,
+						shl2, shl3, shl4, shl5, shl6,
+						xor2, xor3, xor4,
 						inc2, inc3, inc4
 						-- Add State Here
 						

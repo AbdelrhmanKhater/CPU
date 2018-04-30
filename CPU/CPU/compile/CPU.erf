@@ -1,16 +1,15 @@
-MESSAGE "File: f:\VHDL\CPU\CPU\src\control.vhd" 
-BEGINPROGRESS f:\VHDL\CPU\CPU\src\control.vhd
+MESSAGE "File: F:\VHDL\CPU\CPU\src\control.vhd" 
+BEGINPROGRESS F:\VHDL\CPU\CPU\src\control.vhd
 MESSAGE "Compile Entity "control"" 
+UPDATEPROGRESS 4
 UPDATEPROGRESS 5
-UPDATEPROGRESS 6
 MESSAGE "Compile Architecture "rtl" of Entity "control"" 
+UPDATEPROGRESS 6
 UPDATEPROGRESS 7
 UPDATEPROGRESS 8
 UPDATEPROGRESS 9
-UPDATEPROGRESS 10
-UPDATEPROGRESS 97
 UPDATEPROGRESS 98
 UPDATEPROGRESS 99
 UPDATEPROGRESS 100
-ENDPROGRESS f:\VHDL\CPU\CPU\src\control.vhd
-SUCCESS "Compile success 0 Errors 0 Warnings  Analysis time :  0.1 [s]" 
+ENDPROGRESS F:\VHDL\CPU\CPU\src\control.vhd
+SUCCESS "Compile success 0 Errors 0 Warnings  Analysis time :  0.2 [s]" 
