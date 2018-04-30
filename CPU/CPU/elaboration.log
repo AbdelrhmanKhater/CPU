@@ -1,27 +1,2 @@
-elbread.dll ver. 1.0.5.375 Sat Apr 28 11:29:17 2018
+elbread.dll ver. 1.0.5.375 Sun Apr 29 15:24:35 2018
 
-
--------------------------------------
-Entity    | Architecture    | Library
--------------------------------------
-cpu_tb    | tb_architecture | cpu
-cpu       | rtl             | cpu
-regarray  | rtl             | cpu
-trireg    | rtl             | cpu
-alu       | rtl             | cpu
-shift     | rtl             | cpu
-reg       | rtl             | cpu
-comp      | rtl             | cpu
-control   | rtl             | cpu
--------------------------------------
-
------------------------------
-Package             | Library
------------------------------
-standard            | std
-textio              | std
-std_logic_1164      | ieee
-std_logic_arith     | ieee
-cpu_lib             | cpu
-std_logic_unsigned  | ieee
------------------------------

@@ -26,7 +26,7 @@ TestBench=1
 
 [HierarchyViewer]
 SortInfo=u
-HierarchyInformation=cpu_tb|tb_architecture|0 
+HierarchyInformation=cpu_tb|tb_architecture|0
 ShowHide=ShowTopLevel
 Selected=
 
@@ -42,10 +42,10 @@ Selected=
 /shift.vhd=-1
 /top.vhd=-1
 /trireg.vhd=-1
-TestBench/cpu_TB.vhd=-1
-TestBench/cpu_TB_runtest.do=-1
 /untitled.asdb=-1
 /untitled.awc=-1
+TestBench/cpu_TB.vhd=-1
+TestBench/cpu_TB_runtest.do=-1
 
 [Files.Data]
 .\src\ALU.vhd=VHDL Source Code
@@ -59,8 +59,7 @@ TestBench/cpu_TB_runtest.do=-1
 .\src\shift.vhd=VHDL Source Code
 .\src\top.vhd=VHDL Source Code
 .\src\trireg.vhd=VHDL Source Code
-.\src\TestBench\cpu_TB.vhd=VHDL Test Bench
-.\src\TestBench\cpu_TB_runtest.do=Macro
-
 .\src\untitled.asdb=Accelerated Waveform File
 .\src\untitled.awc=Accelerated Waveform Configuration
+.\src\TestBench\cpu_TB.vhd=VHDL Test Bench
+.\src\TestBench\cpu_TB_runtest.do=Macro
